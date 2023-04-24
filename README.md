@@ -1,2 +1,0 @@
-# ExercicioVideo
-Exercicio Video
